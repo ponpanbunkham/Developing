@@ -1,0 +1,25 @@
+.body {
+    background-color: #F6EEE0;
+}
+.navbar {
+    background-color: #F6EEE0;
+    height: 70px;
+}
+.nav-item {
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.navbar-brand {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 3px;
+    
+    
+}
+.offcanvas-body {
+    background-color: #A38166;
+}
+.offcanvas-header {
+    background-color: #A38166;
+}
+
+  
